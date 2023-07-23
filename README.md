@@ -2,7 +2,7 @@
 Stock Market Application 
 A short description of the project's name and what it does.
 
-My term project will be named MarketMaster. MarketMaster is a stock market graphing application 
+My project is be named MarketMaster. MarketMaster is a stock market graphing application 
 that has a variety of features allowing users to get better information about the 
 financial market. Features that are included are stock selection,
 time frame selection, chart selection, comparison and technical indicators. 
